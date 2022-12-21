@@ -22,6 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 <img src="images/Frontend Mentor QR code component.png" alt="qr-code" title="QR Code Componemnt">
 
 
+
 ### Links
 
 - Solution URL: [Github Solution](https://github.com/pzimero/qr-code-component)
@@ -55,7 +56,7 @@ I always had trouble with flexbox and how to apply them into a project. I am pou
 
 ### Continued development
 
-I am used to html, so for the next project, I want to challenge myself and push for another project that uses css. I have an idea of how most css elements and properties works, but I want to make sure I have a thorough understanding. Especially when it comes to flexbox and css grid.
+I am used to html, so for the next project, I want to challenge myself and push for another project that uses css. I have an idea of how most css elements and properties works, but I want to make sure I have a thorough understanding. Especially when it comes to flexbox and css grid. I welcome any and all advice, so if you have any tips for me please do not hestiate to reach out and let me know.
 
 ### Useful resources
 
