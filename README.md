@@ -7,7 +7,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/pzimero/qr-code-component)
-- Live Site URL: [Add live site URL here](https://pzimero.github.io/qr-code-component/)
+- Solution URL: [Github Solution](https://github.com/pzimero/qr-code-component)
+- Live Site URL: [QR-Code-Component](https://pzimero.github.io/qr-code-component/)
 
 ## My process
 I reviewed the solution photo and looked at what the finished application would look like. I decided to change the background color first
@@ -59,8 +58,8 @@ I am used to html, so for the next project, I want to challenge myself and push 
 
 ### Useful resources
 
-- [Resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - This helped me for when I was stuck and did not grasp flexboxes. It is one of my favorite resources and I recommend this to beginners. It is lengthy but details and information included makes it worthy.
-- [Resource 2](https://codepen.io/) - I don't have an account, but I find this website super helpful to understand and apply concepts. I don't have to make an actual file, and I can make any changes without affecting my code that is on vscode.
+- [Basic Concepts of Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) - This helped me for when I was stuck and did not grasp flexboxes. It is one of my favorite resources and I recommend this to beginners. It is lengthy but details and information included makes it worthy.
+- [Codepen](https://codepen.io/) - I don't have an account, but I find this website super helpful to understand and apply concepts. I don't have to make an actual file, and I can make any changes without affecting my code that is on vscode.
 
 ## Author
 
