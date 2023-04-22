@@ -36,6 +36,7 @@ img {
     border-radius: 0.625rem;
     box-shadow:  5px 5px 5px rgba(0, 0, 0, 0.1);
     margin-bottom: 2rem;
+    max-width: 100%;
 }
 
 .qr img {
@@ -53,11 +54,4 @@ img {
 
 .attribution a { 
     color: hsl(228, 45%, 44%); 
-}
-
-/* mobile sizing */
-@media (min-width: 400px) {
-    .qr {
-        width: 375px;
-    }
 }
