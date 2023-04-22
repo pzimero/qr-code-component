@@ -2,7 +2,7 @@
 
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help me improve my coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenge helped me improve my coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 I reviewed the solution photo and looked at what the finished application would look like. I decided to change the background color first
-since that was the easiest thing to do for me. Another easy then I did was styled the fonts to mimic the final product. I realized that in order to achieve a white background for the images and the contents underneath it, I needed to create a div. Once I created the div, I added padding, margin, and height. I made sure to add shadowing for dimension. I made sure to add a media tag in css so that it is also viewable from a mobile device.
+since that was the easiest thing to do for me. After that, I styled the fonts to mimic the final product. I realized that in order to achieve a white background for the images and the contents underneath it, I needed to create a div. Once I created the div, I added padding, margin, and height. I made sure to add shadowing for dimension. This project was a great review on how to center objects by using either CSS grids or flexbox. I opt to use flexbox to center the product.
 
 ### Built with
 
@@ -44,7 +44,7 @@ since that was the easiest thing to do for me. Another easy then I did was style
 
 ### What I learned
 
-I always had trouble with flexbox and how to apply them into a project. I am poud that I was able to handle the html on my own but when it came to the css, I was having a hard time. I reviewed the mdn for css for a couple of days and then used codepen to visualize the how things where changing when using flexbox. There are many ways to put contents into the center and I found one something that works best for me in the way I can understand it. I am also getting used to understanding the workflow of a project. At first glance, I found the project to be intimidating but once I broke it down to pieces (body, h1, img), it was easy once I was organized with that I want to do first. 
+I always had trouble with flexbox and it was diffult for me to apply them into a project. I am poud that I was able to handle the html on my own but when it came to the css, I was having a hard time. I reviewed the mdn for css for a couple of days and then used codepen to visualize the how things where changing when using flexbox. There are many ways to put contents into the center and I found one something that works best for me in the way I can understand it. I am also getting used to understanding the workflow of a project. At first glance, I found the project to be intimidating but once I broke it down to pieces (body, h1, img), it was easy once I was organized with that I want to do first. 
 
 ```css
 .body {
@@ -57,7 +57,7 @@ I always had trouble with flexbox and how to apply them into a project. I am pou
 
 ### Continued development
 
-I am used to html, so for the next project, I want to challenge myself and push for another project that uses css. I have an idea of how most css elements and properties works, but I want to make sure I have a thorough understanding. Especially when it comes to flexbox and css grid. I welcome any and all advice, so if you have any tips for me please do not hestiate to reach out and let me know.
+I am confident with my skills html, however, I want to challenge myself and push for another project that uses css. I have an idea of how most css elements and properties works, but I want to make sure I have a thorough understanding. Especially when it comes to flexbox and css grid. I welcome any and all advice, so if you have any tips for me please do not hestiate to reach out and let me know.
 
 ### Useful resources
 
